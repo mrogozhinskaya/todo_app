@@ -5,4 +5,5 @@ id - unique identifier (+new Date() is good enough)
 title - the text of a todo
 completed - current status (false by default)
 Show the number of not completed todos in TodoApp;
+
 [DEMO LINK](https://mrogozhinskaya.github.io/react_todo-app/).
