@@ -1,12 +1,14 @@
 This is a Todo App built on Todo components.
-Use TodosContext to store and update the todos.
 
-Implement TodoApp component with an input field to create new todos on submit (Enter). Each item should have:
+For creation this task used HTML, CSS(SCSS/SASS), React and Typescript.
 
-id - unique identifier (+new Date() is good enough)
-title - the text of a todo
-completed - current status (false by default)
-Show the number of not completed todos in TodoApp;
+Installation
+To run projects locally, follow this steps
 
-[DEMO LINK](https://mrogozhinskaya.github.io/react_todo-app/).
+Clone the repository: - git clone https://github.com/mrogozhinskaya/todo_app
+Install the dependencies:
+npm install
+Start the project:
+npm start
 
+[DEMO LINK](https://mrogozhinskaya.github.io/react_todo-app/)
